@@ -1,3 +1,7 @@
 Hello my gprec
+<<<<<<< HEAD
 data science branch 
 ecs
+=======
+these is ecs dept
+>>>>>>> main
